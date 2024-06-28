@@ -1,0 +1,1 @@
+This repository will contain the code related to the manuscript "ROV localization using ballasted umbilical equipped with IMUs", by J. Drupt, C. Viel, C. Dune and V. Hugel, submitted to the IEEE Journal of Oceanic Engineering.
